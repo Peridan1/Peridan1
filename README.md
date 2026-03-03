@@ -149,14 +149,14 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
             <div><strong>TypeScript & Next.js</strong></div>
             <div>
-              <img src="https://img.shields.io/badge/Em_Curso-2563eb?style=flat-square" />
+              <img src="https://img.shields.io/badge/Em_Breve-2563eb?style=flat-square" />
             </div>
           </td>
           <td align="center" width="50%" valign="top">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
             <div><strong>Laravel</strong></div>
             <div>
-              <img src="https://img.shields.io/badge/Em_Curso-e11d48?style=flat-square" />
+              <img src="https://img.shields.io/badge/Em_Breve-e11d48?style=flat-square" />
             </div>
           </td>
         </tr>
