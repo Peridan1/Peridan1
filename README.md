@@ -1,224 +1,69 @@
-<div align="center" valign="top">
-
-## Olá 👋! Eu sou o Daniel, também conhecido como Peridan, um dev iniciante brasileiro apaixonado por tecnologia!
-<br>🧠 Estudo Sistemas para Internet na UniALFA e adoro criar interfaces bonitas e funcionais.
-<br>🎯 Estou em busca da minha primeira experiência profissional e sigo evoluindo todos os dias!
-
 <div align="center">
-  <a href="https://www.instagram.com/daniel_satel_pereira/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:danielsatelpereira@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-satel-pereira/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C00FA&height=150&section=header&text=Daniel%20(Peridan)&fontSize=40&fontAlignY=35&fontColor=FADD00&desc=Desenvolvedor%20Full%20Stack&descAlignY=55&descSize=15" />
 </div>
 
----
-
-### 📚 Projetos Acadêmicos em Destaque
-
-<div align="center" valign="top">
-<br>
-<table width="100%">
-  <tr>
-    <!-- ========================= 1º ANO ========================= -->
-    <td width="50%" valign="top">
-      <h2 align="center">📘 1º Ano — Fundamentos</h2>
-      <h3>🧪 1º Período — Desenvolvimento Web</h3>
-      <table width="100%">
-        <tr>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-            <div><strong>HTML & CSS</strong></div>
-            <div>
-              <a href="https://github.com/DanielSatelPereira/exercicios-html-css-faculdade">
-                <img src="https://img.shields.io/badge/Repositório-f97316?style=flat-square" />
-              </a>
-            </div>
-          </td>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-            <div><strong>Site Vitrine</strong></div>
-            <div>
-              <a href="https://github.com/DanielSatelPereira/site-vitrine-html-css">
-                <img src="https://img.shields.io/badge/Repositório-f97316?style=flat-square" />
-              </a>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <h3>🧩 2º Período — Front-End</h3>
-      <table width="100%">
-        <tr>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-            <div><strong>AlfaSino</strong></div>
-            <div>
-              <a href="https://github.com/DanielSatelPereira/alfasino">
-                <img src="https://img.shields.io/badge/Repositório-f97316?style=flat-square" />
-              </a>
-            </div>
-          </td>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-            <div><strong>E-Script</strong></div>
-            <div>
-              <a href="https://github.com/DanielSatelPereira/e-script-website">
-                <img src="https://img.shields.io/badge/Repositório-f97316?style=flat-square" />
-              </a>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <h3>🧪 2º Período — JS & PHP</h3>
-      <table width="100%">
-        <tr>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-            <div><strong>Login Page</strong></div>
-            <div>
-              <a href="https://github.com/DanielSatelPereira/projetos-web-2periodo/tree/main/javascript/login-page-js">
-                <img src="https://img.shields.io/badge/Projeto-facc15?style=flat-square" />
-              </a>
-            </div>
-          </td>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-            <div><strong>Quiz App</strong></div>
-            <div>
-              <a href="https://github.com/DanielSatelPereira/projetos-web-2periodo/tree/main/javascript/quiz-app-js">
-                <img src="https://img.shields.io/badge/Projeto-facc15?style=flat-square" />
-              </a>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <h3>☕ 2º Período — Java</h3>
-      <table width="100%">
-        <tr>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-            <div><strong>Sistema de Doações</strong></div>
-            <div>
-              <a href="https://github.com/DanielSatelPereira/java-2-periodo/tree/main/destaques/destaque-atividade-06.md">
-                <img src="https://img.shields.io/badge/Destaque-9b5de5?style=flat-square" />
-              </a>
-            </div>
-          </td>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-            <div><strong>Little Tiger</strong></div>
-            <div>
-              <a href="https://github.com/DanielSatelPereira/java-2-periodo/tree/main/destaques/destaque-atividade-09.md">
-                <img src="https://img.shields.io/badge/Destaque-9b5de5?style=flat-square" />
-              </a>
-            </div>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- ========================= 2º ANO ========================= -->
-    <td width="50%" valign="top">
-      <h2 align="center">🟪 2º Ano — Avanço e Prática</h2>
-      <h3>🧱 3º Período</h3>
-      <table width="100%">
-        <tr>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-            <div><strong>PHP (POO)</strong></div>
-            <div>
-              <img src="https://img.shields.io/badge/Em_Breve-777?style=flat-square" />
-            </div>
-          </td>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-            <div><strong>Node.js API</strong></div>
-            <div>
-              <img src="https://img.shields.io/badge/Em_Breve-777?style=flat-square" />
-            </div>
-          </td>
-        </tr>
-      </table>
-      <h3>🚀 4º Período</h3>
-      <table width="100%">
-        <tr>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-            <div><strong>TypeScript & Next.js</strong></div>
-            <div>
-              <img src="https://img.shields.io/badge/Em_Breve-2563eb?style=flat-square" />
-            </div>
-          </td>
-          <td align="center" width="50%" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-            <div><strong>Laravel</strong></div>
-            <div>
-              <img src="https://img.shields.io/badge/Em_Breve-e11d48?style=flat-square" />
-            </div>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p><strong>Transformando ideias em interfaces modernas e sistemas escaláveis.</strong></p>
   
+  <a href="https://peridandev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Acesse_meu_Portfólio-2C00FA?style=for-the-badge&logoColor=white" alt="Portfólio" />
+  </a>
+</div>
+
+<br>
+
+## 👨‍💻 Sobre Mim
+
+Sou um desenvolvedor brasileiro apaixonado por tecnologia e focado em criar soluções eficientes. Atualmente, curso **Sistemas para Internet** na UniALFA e atuo na área de Desenvolvimento de Software na **Prefeitura de Umuarama**, onde crio e mantenho soluções internas (como ERPs de Gestão de Frotas). 
+
+- 🎯 **Foco atual:** Evoluir em arquiteturas modernas (Next.js, Tailwind, Laravel) e boas práticas de Engenharia de Software.
+- 💡 **Interesses:** Clean Architecture, UI/UX, e aplicações Mobile com React Native.
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/daniel-satel-pereira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-374550?style=flat-square&logo=linkedin&logoColor=FADD00" alt="LinkedIn" />
+  </a>
+  <a href="mailto:danielsatelpereira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-374550?style=flat-square&logo=gmail&logoColor=FADD00" alt="Gmail" />
+  </a>
+</div>
+
 ---
+
+## 🚀 Projetos em Destaque
+
+Aqui estão alguns dos meus principais trabalhos recentes (veja todos os detalhes no meu portfólio):
+
+### 1. Sistema de Gestão de Frotas (FleetManager)
+Sistema interno robusto (ERP) desenvolvido para a Prefeitura de Umuarama, focado no controle de veículos do pátio e gestão municipal.
+- **Stack:** Laravel 12, MySQL, Tailwind CSS, Docker (Sail). (Será adicionado no futuro após uma sanitização)
+
+### 2. Hub de ONGs (Bem-Digital)
+Plataforma modular para instituições realizarem campanhas de doação, com controle de estoque e registro de contribuintes.
+- **Stack:** Laravel, Alpine.js, Tailwind CSS, DaisyUI.
+
+### 3. Chopits
+E-commerce desenvolvido como projeto acadêmico do 4º semestre, focado em interatividade e tipagem estática.
+- **Stack:** TypeScript, Next.js.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-4145A5?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-4145A5?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-4145A5?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4145A5?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-4145A5?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-4145A5?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-4145A5?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4145A5?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-4145A5?style=flat-square&logo=docker&logoColor=white" />
+</div>
+
+<br>
 
 <div align="center">
-
-### 🛠️ Tecnologias que uso
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-</div>
-
-
----
-
-### 🚀 Tecnologias que pretendo aprender
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <img width="15" />
-</div>
-
----
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7A6740&height=4&width=100%" />
 </div>
